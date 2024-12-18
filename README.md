@@ -18,7 +18,7 @@ Sebelum menjalankan proyek ini, pastikan Anda memiliki:
 1. Clone repositori ini ke mesin lokal Anda:
    ```bash
    git clone https://github.com/AutoFTbot/whatsapp-notification-bot-uptime.git
-   cd whatsapp-notification-bot-uptime
+   cd whatsapp-notification-bot-uptime/uptime
    ```
 
 2. Instal dependensi yang diperlukan:
@@ -30,7 +30,7 @@ Sebelum menjalankan proyek ini, pastikan Anda memiliki:
 
 4. Jalankan aplikasi:
    ```bash
-   node uptime/whatsapp.js
+   node whatsapp.js
    ```
 
 ## Penggunaan
