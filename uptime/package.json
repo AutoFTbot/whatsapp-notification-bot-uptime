@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-notification-bot-uptime",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot for managing group notifications.",
+  "main": "whatsapp.js",
+  "scripts": {
+    "start": "node whatsapp.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "notification",
+    "group"
+  ],
+  "author": "AutoFtbot",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^5.0.0",
+    "express": "^4.17.1",
+    "pino": "^7.0.0",
+    "@hapi/boom": "^9.1.0"
+  }
+}
